@@ -13,6 +13,22 @@
 >
 > POWER-ON (2022.3 ~ )
 
-<a href=""><img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Jupyter-F37626?style=badge&logo=jupyter&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/Docker-2496ED?style=badge&logo=docker&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=html5&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=badge&logo=css3&logoColor=white"/></a> <a href=""><img src="https://img.shields.io/badge/JavaScript-ffd200?style=badge&logo=javascript&logoColor=white"/></a>
+### Studying
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=badge&logo=docker&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=html5&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=badge&logo=css3&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/JavaScript-ffd200?style=badge&logo=javascript&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=badge&logo=obsidian&logoColor=white"/> <img src="https://img.shields.io/badge/Fusion-orange?style=badge&logo=autodesk&logoColor=white"/> <img src="https://img.shields.io/badge/LTspice-900028?style=badge&logo=ltspice&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-30a8ff?style=badge&logo=adobephotoshop&logoColor=001e36"/> <img src="https://img.shields.io/badge/Github-181717?style=badge&logo=github&logoColor=white"/> 
+### Skills
+<a href=""><img src="https://img.shields.io/badge/C/C++-00599C?style=badge&logo=cplusplus&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white"/></a>
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=badge&logo=jupyter&logoColor=white"/></a>
+
+### Tools
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=badge&logo=visualstudiocode&logoColor=white"/></a>
+<a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=badge&logo=obsidian&logoColor=white"/></a>
+<a href="https://www.autodesk.com/products/fusion-360"><img src="https://img.shields.io/badge/Fusion-orange?style=badge&logo=autodesk&logoColor=white"/></a>
+<a href="https://www.analog.com/en/lp/002/tools/ltspice-simulator-kr.html"><img src="https://img.shields.io/badge/LTspice-900028?style=badge&logo=ltspice&logoColor=white"/></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/Github-181717?style=badge&logo=github&logoColor=white"/></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Photoshop-30a8ff?style=badge&logo=adobephotoshop&logoColor=001e36"/></a>
+<a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-#00878F?style=badge&logo=arduino&logoColor=white"/></a>
