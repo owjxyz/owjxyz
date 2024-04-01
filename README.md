@@ -9,4 +9,4 @@
 
 ### Activity
 > [<img width="90" alt="제목 없음-1" src="https://github.com/owjxyz/owjxyz/assets/89694988/370e35f7-ff28-41eb-821f-6ac40f5af5a2">]()
-> Shining Star 4th
+> Shining Star 4th (2024.1)
