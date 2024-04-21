@@ -8,8 +8,13 @@
 > [<img width="90" alt="SAMSUNG" src="https://github.com/owjxyz/owjxyz/assets/89694988/370e35f7-ff28-41eb-821f-6ac40f5af5a2">]()
 > Shining Star Program 4th (2024.1)
 >
-> [<img width="100" alt="제목 없음-1" src="https://github.com/power-on-github/power-on-github.github.io/blob/main/assets/poweron-text.svg">](https://poweron.postech.ac.kr/)
+> [<img width="100" alt="power-on" src="https://github.com/power-on-github/power-on-github.github.io/blob/main/assets/poweron-text.svg">](https://poweron.postech.ac.kr/)
 > Robot Making Club (2022.3 ~ )
+
+### Certification
+> [<img width="130" alt="정보처리기능사" src="https://github.com/owjxyz/owjxyz/assets/89694988/9b602ef3-d36b-4062-a7be-61b49ed3fa87)">](https://www.q-net.or.kr/)
+> Craftsman Information Processing (2024.4.17)
+
 
 ##
 
