@@ -5,7 +5,7 @@
 > Electrical Engeneering UG (2022 ~ )
 
 ### Activity
-> [<img width="90" alt="SAMSUNG" src="https://github.com/owjxyz/owjxyz/assets/89694988/370e35f7-ff28-41eb-821f-6ac40f5af5a2">]()
+> [<img width="90" alt="SAMSUNG" src="https://github.com/owjxyz/owjxyz/assets/89694988/370e35f7-ff28-41eb-821f-6ac40f5af5a2">](https://www.samsung-dsrecruit.com/recruits/notice/2024_winter_shiningstar/index.php)
 > Shining Star Program 4th (2024.1)
 >
 > [<img width="100" alt="power-on" src="https://github.com/power-on-github/power-on-github.github.io/blob/main/assets/poweron-text.svg">](https://poweron.postech.ac.kr/)
