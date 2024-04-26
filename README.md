@@ -29,10 +29,11 @@
 </a>
 
 ### Studying
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=badge&logo=docker&logoColor=white"/></a>
+<a href="https://www.arm.com/" target="_blank"><img src="https://img.shields.io/badge/arm Cortex-0091BD?style=badge&logo=arm&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=html5&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=badge&logo=css3&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ffd200?style=badge&logo=javascript&logoColor=white"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=badge&logo=docker&logoColor=white"/></a>
 
 ### Skills
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C/C++-00599C?style=badge&logo=cplusplus&logoColor=white"/></a>
