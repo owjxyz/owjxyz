@@ -12,7 +12,7 @@
 > Robot Making Club (2022.3 ~ )
 
 ### Certification
-> [<img width="130" alt="정보처리기능사" src="https://github.com/owjxyz/owjxyz/assets/89694988/9b602ef3-d36b-4062-a7be-61b49ed3fa87)">](https://www.q-net.or.kr/)
+> [<img width="130" alt="정보처리기능사" src="https://github.com/owjxyz/owjxyz/assets/89694988/9b602ef3-d36b-4062-a7be-61b49ed3fa87">](https://www.q-net.or.kr/)
 > Craftsman Information Processing (2024.4.17)
 
 
