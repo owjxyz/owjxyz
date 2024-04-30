@@ -29,8 +29,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owjxyz&layout=compact" />
 </a>
 
-### 
-
 ### Studying
 <a href="https://www.arm.com/" target="_blank"><img src="https://img.shields.io/badge/arm Cortex-0091BD?style=badge&logo=arm&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=html5&logoColor=white"/></a>
