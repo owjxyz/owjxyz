@@ -11,6 +11,7 @@
 > [<img width="90" alt="SAMSUNG" src="https://github.com/owjxyz/owjxyz/assets/89694988/370e35f7-ff28-41eb-821f-6ac40f5af5a2">](https://www.samsung-dsrecruit.com/recruits/notice/2024_winter_shiningstar/index.php)
 > Shining Star Program 4th (2024.1)
 <!--
+> 
 > [<img width="100" alt="ROKAF" src="https://github.com/owjxyz/owjxyz/assets/89694988/97f4a742-6483-4e80-a0f6-7e4bb0f12d17">](https://rokaf.airforce.mil.kr/airforce/index.do)
 > Republic of Korea Air Force (2024.9 ~ 2026.6)
 -->
