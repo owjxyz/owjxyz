@@ -1,7 +1,7 @@
 # Woojin OH 
 
 ### Education
-> [<img width="140" alt="POSTECH" src="https://github.com/owjxyz/owjxyz/assets/89694988/7f185b88-cfbd-4b88-8e5e-9f2d4565268d">](https://www.postech.ac.kr)
+> <a href="https://www.postech.ac.kr" target="_blank"><img width="140" alt="POSTECH" src="https://github.com/owjxyz/owjxyz/assets/89694988/7f185b88-cfbd-4b88-8e5e-9f2d4565268d"></a>
 > Electrical Engeneering UG (2022 ~ )
 
 ### Activity
@@ -27,9 +27,8 @@
 
 <details>
   <summary>
-    
   </summary>
-
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owjxyz&layout=compact" />
 </a>
