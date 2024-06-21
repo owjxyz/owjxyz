@@ -15,9 +15,9 @@
   <p>
     <a href="https://www.samsung-dsrecruit.com/recruits/notice/2024_winter_shiningstar/index.php" target="_blank"><img width="90" alt="SAMSUNG" src="https://github.com/owjxyz/owjxyz/assets/89694988/370e35f7-ff28-41eb-821f-6ac40f5af5a2"></a> Shining Star Program 4th (2024.1)
   </p>
-  <!--p>
+  <!--<--p>
     <a href="https://rokaf.airforce.mil.kr/airforce/index.do" target="_blank"><img width="50" alt="ROKAF" src="https://github.com/owjxyz/owjxyz/assets/89694988/97f4a742-6483-4e80-a0f6-7e4bb0f12d17"></a> Republic of Korea Air Force (2024.9 ~ 2026.6)
-</p-->
+  </p>-->
 </blockquote>
 
 <!--
@@ -29,9 +29,11 @@
 </blockquote>
 -->
 
-<div align="right">
+<div>
   <h3>Contacts</h3>
-  <>
+  <a href="https://linkedin.com/in/wjoh"><img width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/linkedin.png?raw=true"></a>
+  <a href="https://www.instagram.com/owjxyz/"><img width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/instagram.png?raw=true"></a>
+  <a href="owj1110@icloud.com"><img width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/mail.png?raw=true"></a>
 </div>
 <h2></h2>
 
