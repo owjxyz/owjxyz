@@ -20,12 +20,14 @@
 </p-->
 </blockquote>
 
+<!--
 <h3>Certification</h3>
 <blockquote>
   <p>
     <a href="https://www.q-net.or.kr/" target="_blank"><img width="130" alt="정보처리기능사" src="https://github.com/owjxyz/owjxyz/assets/89694988/9b602ef3-d36b-4062-a7be-61b49ed3fa87"></a> Craftsman Information Processing (2024.4.17)
   </p>
 </blockquote>
+-->
 
 <h2></h2>
 <details>
