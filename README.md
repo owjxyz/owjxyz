@@ -1,9 +1,5 @@
 <h1>Woojin OH</h1> 
 
-<a href="https://linkedin.com/in/wjoh"><img align="right" width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/linkedin.png?raw=true"></a>
-<a href="https://www.instagram.com/owjxyz/"><img align="right" width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/instagram.png?raw=true"></a>
-<a href="mailto:owj1110@icloud.com"><img align="right" width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/mail.png?raw=true"></a>
-
 <h3>Education</h3>
 <blockquote>
   <p>
@@ -41,6 +37,10 @@
   </p>
 </blockquote>
 -->
+
+<a href="https://linkedin.com/in/wjoh"><img align="right" width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/linkedin.png?raw=true"></a>
+<a href="https://www.instagram.com/owjxyz/"><img align="right" width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/instagram.png?raw=true"></a>
+<a href="mailto:owj1110@icloud.com"><img align="right" width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/mail.png?raw=true"></a>
 
 <h2></h2>
 
