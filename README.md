@@ -29,12 +29,13 @@
 </blockquote>
 -->
 
-<div>
+<div align="right">
   <h3>Contacts</h3>
   <a href="https://linkedin.com/in/wjoh"><img width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/linkedin.png?raw=true"></a>
   <a href="https://www.instagram.com/owjxyz/"><img width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/instagram.png?raw=true"></a>
   <a href="mailto:owj1110@icloud.com"><img width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/mail.png?raw=true"></a>
 </div>
+
 <h2></h2>
 
 <details>
