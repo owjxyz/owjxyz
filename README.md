@@ -1,7 +1,7 @@
 <h1>Woojin OH</h1> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owjxyz&exclude_repo=owjxyz.github.io&theme=buefy&hide_border=true&layout=donut" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owjxyz&exclude_repo=owjxyz.github.io&theme=buefy&hide_border=true&layout=compact" />
 </a>
 
 <h3>Education</h3>
