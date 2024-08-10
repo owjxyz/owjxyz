@@ -1,8 +1,4 @@
-<h1>Woojin OH</h1> 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owjxyz&exclude_repo=owjxyz.github.io&theme=default&hide_border=true&layout=compact" />
-</a>
+<h1>Woojin OH</h1>
 
 <h3>Education</h3>
 <blockquote>
@@ -50,31 +46,41 @@
 
 <details>
   <summary></summary>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=400 align="right" src="https://github-readme-stats.vercel.app/api?username=owjxyz&show_icons=true&icon_color=f1c900&hide_border=true&hide=prs,issues" />
-  </a>
-  
-  <h3>Studying</h3>
-  <a href="https://www.arm.com/" target="_blank"><img src="https://img.shields.io/badge/arm Cortex-0091BD?style=badge&logo=arm&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=html5&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=badge&logo=css3&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ffd200?style=badge&logo=javascript&logoColor=white"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=badge&logo=docker&logoColor=white"/></a>
-  
-  <h3>Skills</h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/C/C++-00599C?style=badge&logo=cplusplus&logoColor=white"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=badge&logo=jupyter&logoColor=white"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00878F?style=badge&logo=arduino&logoColor=white"/></a>
-  <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://img.shields.io/badge/Raspberry Pi-bc3657?style=badge&logo=raspberrypi&logoColor=white"/></a>
-  
-  <h3>Tools</h3>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=badge&logo=visualstudiocode&logoColor=white"/></a>
-  <a href="https://obsidian.md/" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=badge&logo=obsidian&logoColor=white"/></a>
-  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank"><img src="https://img.shields.io/badge/Fusion-orange?style=badge&logo=autodesk&logoColor=white"/></a>
-  <a href="https://www.analog.com/en/lp/002/tools/ltspice-simulator-kr.html" target="_blank"><img src="https://img.shields.io/badge/LTspice-900028?style=badge&logo=ltspice&logoColor=white"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-181717?style=badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop-30a8ff?style=badge&logo=adobephotoshop&logoColor=001e36"/></a>
-
+  <table border="0">
+    <tr>
+      <td>
+        <h3>Studying</h3>
+        <a href="https://www.arm.com/" target="_blank"><img src="https://img.shields.io/badge/arm Cortex-0091BD?style=badge&logo=arm&logoColor=white"/></a>
+        <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=html5&logoColor=white"/></a>
+        <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=badge&logo=css3&logoColor=white"/></a>
+        <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ffd200?style=badge&logo=javascript&logoColor=white"/></a>
+        <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=badge&logo=docker&logoColor=white"/></a>
+        <h3>Skills</h3>
+        <a href="" target="_blank"><img src="https://img.shields.io/badge/C/C++-00599C?style=badge&logo=cplusplus&logoColor=white"/></a>
+        <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white"/></a>
+        <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=badge&logo=jupyter&logoColor=white"/></a>
+        <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00878F?style=badge&logo=arduino&logoColor=white"/></a>
+        <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://img.shields.io/badge/Raspberry Pi-bc3657?style=badge&logo=raspberrypi&logoColor=white"/></a>
+        <h3>Tools</h3>
+        <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=badge&logo=visualstudiocode&logoColor=white"/></a>
+        <a href="https://obsidian.md/" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=badge&logo=obsidian&logoColor=white"/></a>
+        <a href="https://www.autodesk.com/products/fusion-360/" target="_blank"><img src="https://img.shields.io/badge/Fusion-orange?style=badge&logo=autodesk&logoColor=white"/></a>
+        <a href="https://www.analog.com/en/lp/002/tools/ltspice-simulator-kr.html" target="_blank"><img src="https://img.shields.io/badge/LTspice-900028?style=badge&logo=ltspice&logoColor=white"/></a>
+        <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-181717?style=badge&logo=github&logoColor=white"/></a>
+        <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop-30a8ff?style=badge&logo=adobephotoshop&logoColor=001e36"/></a>
+      </td>
+      <td>
+        <div>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="right" src="https://github-readme-stats.vercel.app/api?username=owjxyz&show_icons=true&icon_color=f1c900&hide_border=true&hide=prs,issues" />
+        </a>
+        </div>
+        <div>
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owjxyz&exclude_repo=owjxyz.github.io&theme=default&hide_border=true&layout=compact" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </details>
