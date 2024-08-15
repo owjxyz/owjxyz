@@ -46,7 +46,7 @@
 
 <details>
   <summary></summary>
-  <table border="0">
+  <table>
     <tr>
       <td>
         <h3>Studying</h3>
