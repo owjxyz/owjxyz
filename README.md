@@ -72,7 +72,7 @@
       <td>
         <div>
           <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=owjxyz&show_icons=true&icon_color=f1c900&hide_border=true&hide=prs,issues&rank_icon=github" />
+            <img src="https://github-readme-stats.vercel.app/api?username=owjxyz&show_icons=true&icon_color=f1c900&hide_border=true&hide=prs,issues&rank_icon=github&card_width=300px" />
           </a>
         </div>
         <div>
