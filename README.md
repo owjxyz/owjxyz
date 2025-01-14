@@ -76,7 +76,6 @@
         <a href="https://www.autodesk.com/products/fusion-360/" target="_blank"><img src="https://img.shields.io/badge/Fusion-orange?style=badge&logo=autodesk&logoColor=white"/></a>
         <a href="https://www.analog.com/en/lp/002/tools/ltspice-simulator-kr.html" target="_blank"><img src="https://img.shields.io/badge/LTspice-900028?style=badge&logo=ltspice&logoColor=white"/></a>
         <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-181717?style=badge&logo=github&logoColor=white"/></a>
-        <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop-30a8ff?style=badge&logo=adobephotoshop&logoColor=001e36"/></a>
       </td>
       <td>
         <div>
