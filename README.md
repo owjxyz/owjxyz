@@ -3,17 +3,17 @@
 <h3>🎓Education</h3>
 <blockquote>
   <p>
-    <a href="https://www.postech.ac.kr" target="_blank"><img width="140" alt="POSTECH" src="https://github.com/owjxyz/owjxyz/assets/89694988/7f185b88-cfbd-4b88-8e5e-9f2d4565268d"></a> Electrical Engeneering UG (2022 ~ )
+    <a href="https://www.postech.ac.kr" target="_blank"><img height="12" alt="POSTECH" src="https://github.com/owjxyz/owjxyz/assets/89694988/7f185b88-cfbd-4b88-8e5e-9f2d4565268d"></a> Electrical Engeneering UG (2022 ~ )
   </p>
 </blockquote>
 
 <h3>🦾Activity</h3>
 <blockquote>
   <p>
-    <a href="https://poweron.postech.ac.kr/" target="_blank"><img width="100" alt="power-on" src="https://github.com/power-on-github/power-on-github.github.io/blob/main/assets/poweron-text.svg"></a> Robot Making Club (2022.3 ~ )
+    <a href="https://poweron.postech.ac.kr/" target="_blank"><img height="20" alt="power-on" src="https://github.com/power-on-github/power-on-github.github.io/blob/main/assets/poweron-text.svg"></a> Robot Making Club (2022.3 ~ )
   </p>
   <p>
-    <a href="https://www.samsung-dsrecruit.com/recruits/notice/2024_winter_shiningstar/index.php" target="_blank"><img width="90" alt="SAMSUNG" src="https://github.com/owjxyz/owjxyz/assets/89694988/370e35f7-ff28-41eb-821f-6ac40f5af5a2"></a> Shining Star Program 4th (2024.1)
+    <a href="https://www.samsung-dsrecruit.com/recruits/notice/2024_winter_shiningstar/index.php" target="_blank"><img height="16" alt="SAMSUNG" src="https://github.com/owjxyz/owjxyz/assets/89694988/370e35f7-ff28-41eb-821f-6ac40f5af5a2"></a> Shining Star Program 4th (2024.1)
   </p>
   <!--<--p>
     <a href="https://rokaf.airforce.mil.kr/airforce/index.do" target="_blank"><img width="50" alt="ROKAF" src="https://github.com/owjxyz/owjxyz/assets/89694988/97f4a742-6483-4e80-a0f6-7e4bb0f12d17"></a> Republic of Korea Air Force (2024.9 ~ 2026.6)
