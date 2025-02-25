@@ -1,4 +1,4 @@
-<h1>Woojin OH</h1>
+8<h1>Woojin OH</h1>
 
 <h3>🎓Education</h3>
 <blockquote>
@@ -68,7 +68,7 @@
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=owjxyz&show_icons=true&icon_color=f1c900&hide=prs,issues&rank_icon=github&include_all_commits=true&hide_border=true" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=owjxyz&show_icons=true&hide_border=true&icon_color=f1c900&hide=prs,issues&rank_icon=github&include_all_commits=true" />
         </a>
       </td>
     </tr>
