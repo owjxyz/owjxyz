@@ -76,11 +76,13 @@
         <a href="" target="_blank"><img src="https://img.shields.io/badge/C/C++-00599C?style=badge&logo=cplusplus&logoColor=white"/></a>
         <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white"/></a>
         <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=badge&logo=jupyter&logoColor=white"/></a>
-        <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00878F?style=badge&logo=arduino&logoColor=white"/></a>
-        <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://img.shields.io/badge/Raspberry Pi-bc3657?style=badge&logo=raspberrypi&logoColor=white"/></a>
+        <br>
         <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=html5&logoColor=white"/></a>
         <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=badge&logo=css3&logoColor=white"/></a>
         <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ffd200?style=badge&logo=javascript&logoColor=white"/></a>
+        <br>
+        <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00878F?style=badge&logo=arduino&logoColor=white"/></a>
+        <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://img.shields.io/badge/Raspberry Pi-bc3657?style=badge&logo=raspberrypi&logoColor=white"/></a>
       </td>
       <td rowspan="2">
         <a href="https://github.com/anuraghazra/github-readme-stats">
