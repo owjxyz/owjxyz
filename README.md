@@ -60,10 +60,8 @@
     <tr>
       <td>
         <h3>📚Studying</h3>
+        <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=badge&logo=react&logoColor=white"/></a>
         <a href="https://www.arm.com/" target="_blank"><img src="https://img.shields.io/badge/arm Cortex-0091BD?style=badge&logo=arm&logoColor=white"/></a>
-        <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=html5&logoColor=white"/></a>
-        <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=badge&logo=css3&logoColor=white"/></a>
-        <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ffd200?style=badge&logo=javascript&logoColor=white"/></a>
         <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=badge&logo=docker&logoColor=white"/></a>
       </td>
       <td>
@@ -77,6 +75,9 @@
         <h3>💻Skills</h3>
         <a href="" target="_blank"><img src="https://img.shields.io/badge/C/C++-00599C?style=badge&logo=cplusplus&logoColor=white"/></a>
         <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white"/></a>
+        <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=html5&logoColor=white"/></a>
+        <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=badge&logo=css3&logoColor=white"/></a>
+        <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ffd200?style=badge&logo=javascript&logoColor=white"/></a>
         <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=badge&logo=jupyter&logoColor=white"/></a>
         <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00878F?style=badge&logo=arduino&logoColor=white"/></a>
         <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://img.shields.io/badge/Raspberry Pi-bc3657?style=badge&logo=raspberrypi&logoColor=white"/></a>
@@ -94,6 +95,9 @@
         <a href="https://obsidian.md/" target="_blank"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=badge&logo=obsidian&logoColor=white"/></a>
         <a href="https://www.autodesk.com/products/fusion-360/" target="_blank"><img src="https://img.shields.io/badge/Fusion-orange?style=badge&logo=autodesk&logoColor=white"/></a>
         <a href="https://www.analog.com/en/lp/002/tools/ltspice-simulator-kr.html" target="_blank"><img src="https://img.shields.io/badge/LTspice-900028?style=badge&logo=ltspice&logoColor=white"/></a>
+        <a href=""><img src="https://img.shields.io/badge/Termius-000000?style=badge&logo=termius&logoColor=white"/></a>
+        <a href=""><img src="https://img.shields.io/badge/Orange-FF7900?style=badge&logo=orange&logoColor=white"/></a>
+        <a href=""><img src="https://img.shields.io/badge/FileZilla-BF0000?style=badge&logo=filezilla&logoColor=white"/></a>
         <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-181717?style=badge&logo=github&logoColor=white"/></a>
       </td>
     </tr>
