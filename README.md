@@ -61,7 +61,8 @@
       <td>
         <h3>📚Studying</h3>
         <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=badge&logo=react&logoColor=white"/></a>
-        <a href="https://www.arm.com/" target="_blank"><img src="https://img.shields.io/badge/arm Cortex-0091BD?style=badge&logo=arm&logoColor=white"/></a>
+        <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=badge&logo=typescript&logoColor=white"/></a>
+        <a href="https://www.arm.com/" target="_blank"><img src="https://img.shields.io/badge/Cortex-0091BD?style=badge&logo=arm&logoColor=white"/></a>
         <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=badge&logo=docker&logoColor=white"/></a>
       </td>
       <td>
