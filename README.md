@@ -45,16 +45,14 @@
 
 <details>
   <summary></summary>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=owjxyz&show_icons=true&hide_border=true&icon_color=f1c900&rank_icon=github" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owjxyz&exclude_repo=owjxyz.github.io&theme=default&hide_border=true&layout=donut" />
+  ![Stats](./profile/stats.svg)
+  ![Top Languages](./profile/top-langs.svg)
 </details>
 
 ## 📊 GitHub Stats
-![Stats](./profile/stats.svg)
+
 
 ## 📈 Top Languages
-![Top Languages](./profile/top-langs.svg)
 
-## 📌 Pinned Repo
-![Pinned Repo](./profile/pin.svg)
+
 
