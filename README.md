@@ -16,7 +16,7 @@
     <a href="https://www.samsung-dsrecruit.com/recruits/notice/2024_winter_shiningstar/index.php" target="_blank"><img height="16" alt="SAMSUNG" src="https://github.com/owjxyz/owjxyz/assets/89694988/370e35f7-ff28-41eb-821f-6ac40f5af5a2"></a> Shining Star Program 4th (2024.1)
   </p>
   <p>
-    <a href="https://www.samsung-dsrecruit.com/recruits/notice/2024_winter_shiningstar/index.php" target="_blank"><img height="48" alt="ROKAFA" src="https://raw.githubusercontent.com/owjxyz/owjxyz/5f01a715252b0758508fe30580053e433a1f15fb/assets/rokafa.svg"></a> S/W Development Soldier @Republic of Korea Air Force Academy  (2024.9 ~ 2026.6)
+    <a href="https://rokaf.airforce.mil.kr/afa/index.do" target="_blank"><img height="48" alt="ROKAFA" src="https://raw.githubusercontent.com/owjxyz/owjxyz/5f01a715252b0758508fe30580053e433a1f15fb/assets/rokafa.svg"></a> S/W Development Soldier @Republic of Korea Air Force Academy  (2024.9 ~ 2026.6)
   </p>
 </blockquote>
 
