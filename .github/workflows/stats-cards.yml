@@ -1,0 +1,51 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 매일 00:00 UTC에 실행
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      # 1) GitHub 통계 카드 생성
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&icon_color=f1c900&rank_icon=github
+          path: profile/stats.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      # 2) 언어 통계 카드 생성
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          path: profile/top-langs.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      # 3) README에 삽입할 참고용 Pin 카드 (선택)
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ github.repository_owner }}&exclude_repo=owjxyz.github.io&theme=default&hide_border=true&layout=donut
+          path: profile/pin.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      # 4) 생성된 SVG 파일 커밋 & 푸시
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README stats cards" || exit 0
+          git push
