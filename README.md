@@ -45,10 +45,16 @@
 
 <details>
   <summary></summary>
-  
-  ![Stats](./profile/stats.svg)
-  
-  ![Top Languages](./profile/top-langs.svg)
+  <table>
+    <tr>
+      <td>
+        <img alt="Stats" src="./profile/stats.svg">
+      </td>
+      <td>
+        <img alt="Top Languages" src="./profile/top-langs.svg">
+      </td>
+    </tr>
+  </table>
 </details>
 
 
