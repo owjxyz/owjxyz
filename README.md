@@ -48,6 +48,7 @@
 
 <details>
   <summary></summary>
+  <br>
   <table>
     <tr>
       <td>
