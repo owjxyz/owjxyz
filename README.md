@@ -1,13 +1,13 @@
 <h1>Woojin OH</h1>
 
-<h3>🎓Education</h3>
+<h3>🎓 Education</h3>
 <blockquote>
   <p>
     <a href="https://www.postech.ac.kr" target="_blank"><img height="12" alt="POSTECH" src="https://github.com/owjxyz/owjxyz/assets/89694988/7f185b88-cfbd-4b88-8e5e-9f2d4565268d"></a> Electrical Engeneering UG (2022 ~ )
   </p>
 </blockquote>
 
-<h3>🦾Activity</h3>
+<h3>🦾 Activity</h3>
 <blockquote>
   <p>
     <a href="https://poweron.postech.ac.kr/" target="_blank"><img height="20" alt="power-on" src="https://github.com/power-on-github/power-on-github.github.io/blob/main/assets/poweron-text.svg"></a> Robot Makers Club (2022.3 ~ )
@@ -21,7 +21,7 @@
 </blockquote>
 
 <!--
-<h3>🏆Award</h3>
+<h3>🏆 Award</h3>
 <blockquote>
   <p>
     
@@ -30,7 +30,7 @@
 -->
 
 <!--
-<h3>💼Career</h3>
+<h3>💼 Career</h3>
 <blockquote>
   <p>
     
