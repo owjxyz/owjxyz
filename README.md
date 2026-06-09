@@ -38,13 +38,10 @@
 </blockquote>
 -->
 
+<a href="https://ko-fi.com/owjxyz"><img height="40" alt="support_me_on_kofi_dark" src="https://github.com/user-attachments/assets/44a50f32-d57a-4a75-8ae7-84bbb1752f77" /></a>
 <a href="https://linkedin.com/in/wjoh"><img align="right" width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/linkedin.png?raw=true"></a>
 <a href="https://www.instagram.com/owjxyz/"><img align="right" width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/instagram.png?raw=true"></a>
 <a href="mailto:owj1110@icloud.com"><img align="right" width="40" src="https://github.com/owjxyz/owjxyz/blob/main/assets/mail.png?raw=true"></a>
-<br>
-<br>
-<br>
-<a href="https://ko-fi.com/owjxyz"><img align="right" height="40" alt="support_me_on_kofi_dark" src="https://github.com/user-attachments/assets/44a50f32-d57a-4a75-8ae7-84bbb1752f77" /></a>
 <br>
 
 <h2></h2>
