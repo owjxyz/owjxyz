@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-labelledby="title desc">
+  <title id="title">WooJIN OH</title>
+  <desc id="desc">Text set in Garamond at 2em; color switches for light/dark modes via prefers-color-scheme.</desc>
+  <style>
+    /* load EB Garamond from Google Fonts */
+    @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400&display=swap');
+    @font-face {
+      font-family: 'EB Garamond';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url('https://fonts.gstatic.com/s/ebgaramond/v33/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RUAw.ttf') format('truetype');
+    }
+
+    text { font-family: 'EB Garamond', serif; font-size: 2em; dominant-baseline: middle; text-anchor: middle; fill: rgb(31,35,40); }
+    @media (prefers-color-scheme: dark) {
+      text { fill: rgb(240,246,252); }
+    }
+  </style>
+
+  <!-- transparent background so host controls background color -->
+  <rect width="100%" height="100%" fill="none"/>
+
+  <!-- centered text -->
+  <text x="50%" y="50%">WooJIN OH</text>
+</svg>
