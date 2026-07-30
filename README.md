@@ -1,7 +1,8 @@
-<h1>WooJIN OH</h1>
-<a href="#">
-  <img src="https://github.com/owjxyz/owjxyz/blob/main/assets/woojinoh.svg">
-</a>
+<h1>
+  <a href="#">
+    <img src="https://github.com/owjxyz/owjxyz/blob/main/assets/woojinoh.svg">
+  </a>
+</h1>
 
 <h3>🎓 Education</h3>
 <blockquote>
