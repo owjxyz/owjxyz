@@ -14,7 +14,7 @@
 <h3>🦾 Activity</h3>
 <blockquote>
   <p>
-    <a href="https://poweron.postech.ac.kr/" target="_blank"><img height="20" alt="power-on" src="https://github.com/power-on-github/power-on-github.github.io/blob/main/assets/poweron-text.svg"></a> Robot Makers Club (2022.3 ~ )
+    <a href="https://poweron.postech.ac.kr/" target="_blank"><img height="20" alt="power-on" src="https://github.com/power-on-github/power-on-github.github.io/blob/main/assets/poweron-text.svg"></a> Robot Makers Club (2022.3 ~ 2024.6)
   </p>
   <p>
     <a href="https://www.samsung-dsrecruit.com/recruits/notice/2024_winter_shiningstar/index.php" target="_blank"><img height="16" alt="SAMSUNG" src="https://github.com/owjxyz/owjxyz/assets/89694988/370e35f7-ff28-41eb-821f-6ac40f5af5a2"></a> Shining Star Program 4th (2024.1)
