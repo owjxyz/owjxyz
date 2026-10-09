@@ -49,13 +49,9 @@
   <!--a href="https://ko-fi.com/owjxyz"><img align="right" height="40" alt="support_me_on_kofi_dark" src="https://github.com/user-attachments/assets/44a50f32-d57a-4a75-8ae7-84bbb1752f77" /></a-->
 </div>
 
-<br>
-
-<h2></h2>
-
 <details>
   <summary></summary>
-  <br>
+  <h2></h2>
   <table>
     <tr>
       <td>
