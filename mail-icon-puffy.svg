@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Inflated Mail</title>
+  <desc id="desc">A deeply inflated blue vinyl cushion and a glossy white padded envelope, with smooth convex surfaces, deep soft shading and reflective highlights.</desc>
+  <defs>
+    <radialGradient id="blue" cx="37%" cy="28%" r="78%" fx="30%" fy="20%">
+      <stop stop-color="#37c7ff"/><stop offset=".34" stop-color="#029cff"/>
+      <stop offset=".63" stop-color="#007cf7"/><stop offset=".86" stop-color="#0052cb"/>
+      <stop offset="1" stop-color="#002c7d"/>
+    </radialGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2=".3" y2="1">
+      <stop stop-color="#b9f6ff"/><stop offset=".22" stop-color="#028bec"/>
+      <stop offset=".72" stop-color="#003e99"/><stop offset="1" stop-color="#56b7ff"/>
+    </linearGradient>
+    <radialGradient id="paper" cx="42%" cy="30%" r="78%">
+      <stop stop-color="#fffefa"/><stop offset=".44" stop-color="#f2f5f9"/>
+      <stop offset=".64" stop-color="#c1d0e3"/><stop offset=".91" stop-color="#8095b2"/>
+      <stop offset="1" stop-color="#435875"/>
+    </radialGradient>
+    <radialGradient id="flap" cx="44%" cy="28%" r="76%">
+      <stop stop-color="#fffefa"/><stop offset=".45" stop-color="#fbfcfc"/>
+      <stop offset=".58" stop-color="#e0e5ee"/><stop offset=".81" stop-color="#96a9c3"/>
+      <stop offset="1" stop-color="#657b99"/>
+    </radialGradient>
+    <radialGradient id="pouch" cx="46%" cy="37%" r="75%">
+      <stop stop-color="#ffffff"/><stop offset=".4" stop-color="#edf3fc"/>
+      <stop offset=".63" stop-color="#b9cde6"/><stop offset=".85" stop-color="#6b85aa"/>
+      <stop offset="1" stop-color="#4c6385"/>
+    </radialGradient>
+    <linearGradient id="side" x1="0" y1="0" x2="1" y2=".45">
+      <stop stop-color="#6582a7"/><stop offset=".16" stop-color="#d4e1f0"/>
+      <stop offset=".38" stop-color="#f7faff"/><stop offset=".68" stop-color="#c0d3ea"/>
+      <stop offset="1" stop-color="#6c85a7"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fff" stop-opacity=".96"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="spot">
+      <stop stop-color="#fff" stop-opacity=".96"/><stop offset=".4" stop-color="#fff" stop-opacity=".43"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+    <filter id="tiny"><feGaussianBlur stdDeviation="1.3"/></filter>
+    <filter id="lift" x="-30%" y="-30%" width="160%" height="180%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="2" dy="18" stdDeviation="10" flood-color="#00255a" flood-opacity=".66"/>
+      <feDropShadow dx="0" dy="3" stdDeviation="2" flood-color="#002354" flood-opacity=".5"/>
+    </filter>
+    <filter id="ground" x="-15%" y="-15%" width="130%" height="135%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#082a69" flood-opacity=".32"/>
+    </filter>
+    <path id="cushion" d="M145 28C201 18 311 18 367 28C441 39 474 72 485 145C495 202 495 310 485 367C474 441 441 474 367 485C311 495 201 495 145 485C71 474 38 441 27 367C17 310 17 202 27 145C38 72 71 39 145 28Z"/>
+    <path id="envelope" d="M123 124C197 117 315 117 389 124C422 127 440 148 443 180C447 216 448 303 441 339C437 367 419 382 389 386C310 393 202 393 123 386C93 382 75 367 71 339C64 303 65 216 69 180C72 148 90 127 123 124Z"/>
+    <path id="topFlap" d="M92 143C109 123 151 122 193 122H319C365 122 407 123 422 143C435 164 407 185 383 209L293 281C270 299 242 299 219 281L129 209C104 185 78 163 92 143Z"/>
+    <clipPath id="blueClip"><use href="#cushion"/></clipPath>
+    <clipPath id="paperClip"><use href="#envelope"/></clipPath>
+    <clipPath id="flapClip"><use href="#topFlap"/></clipPath>
+  </defs>
+  <g filter="url(#ground)">
+    <use href="#cushion" fill="url(#blue)" stroke="url(#rim)" stroke-width="3"/>
+    <g clip-path="url(#blueClip)">
+      <path d="M57 154C66 67 108 47 185 38C259 30 339 33 385 45" fill="none" stroke="#a7efff" stroke-width="15" opacity=".36" filter="url(#soft)"/>
+      <path d="M64 130C82 65 125 49 199 43C264 37 334 39 377 48" fill="none" stroke="url(#shine)" stroke-width="12" stroke-linecap="round" opacity=".32" filter="url(#soft)"/>
+      <path d="M42 181C30 243 37 330 49 363" fill="none" stroke="#7addff" stroke-width="13" opacity=".28" filter="url(#soft)"/>
+      <path d="M68 399C91 447 131 456 180 460C259 468 334 462 379 451" fill="none" stroke="#001d75" stroke-width="23" opacity=".13" filter="url(#soft)"/>
+      <path d="M101 458C173 484 345 485 408 451" fill="none" stroke="#61c8ff" stroke-width="8" opacity=".24" filter="url(#soft)"/>
+      <ellipse cx="115" cy="76" rx="57" ry="15" fill="url(#spot)" transform="rotate(-25 115 76)"/>
+      <ellipse cx="433" cy="147" rx="14" ry="53" fill="url(#spot)" opacity=".6" transform="rotate(-12 433 147)"/>
+      <use href="#cushion" fill="none" stroke="#003e9b" stroke-width="12" opacity=".13"/>
+    </g>
+  </g>
+  <g filter="url(#lift)" transform="translate(7.68 7.68) scale(.97)">
+    <use href="#envelope" fill="url(#paper)"/>
+    <g clip-path="url(#paperClip)">
+      <path d="M82 162C103 158 148 204 184 230L231 270C199 310 130 355 83 362C66 318 66 207 82 162Z" fill="url(#side)"/>
+      <path d="M82 162C103 158 148 204 184 230L231 270C199 310 130 355 83 362C66 318 66 207 82 162Z" fill="url(#side)" transform="translate(512 0) scale(-1 1)"/>
+      <path d="M83 343C112 307 164 262 206 236C232 220 280 220 306 236C348 262 400 307 429 343C443 368 418 382 383 385C311 393 201 393 129 385C94 382 69 368 83 343Z" fill="#536d91" transform="translate(0 4)" opacity=".75" filter="url(#soft)"/>
+      <path d="M83 343C112 307 164 262 206 236C232 220 280 220 306 236C348 262 400 307 429 343C443 368 418 382 383 385C311 393 201 393 129 385C94 382 69 368 83 343Z" fill="url(#pouch)"/>
+      <path d="M102 344C135 313 172 278 206 257M306 257C340 278 377 313 410 344" fill="none" stroke="#7186a2" stroke-width="8" opacity=".28" filter="url(#soft)"/>
+      <path d="M101 341C134 310 171 275 205 254M307 254C341 275 378 310 411 341" fill="none" stroke="#fff" stroke-width="9" opacity=".34" filter="url(#soft)"/>
+      <ellipse cx="247" cy="335" rx="127" ry="31" fill="url(#spot)" opacity=".8"/>
+      <path d="M127 316C164 296 195 294 220 301C169 304 159 312 140 329Z" fill="url(#shine)" filter="url(#tiny)" opacity=".85"/>
+      <path d="M300 302C337 300 367 314 390 337C358 322 345 318 306 314Z" fill="url(#shine)" filter="url(#tiny)" opacity=".7"/>
+      <ellipse cx="343" cy="331" rx="30" ry="11" fill="url(#spot)" opacity=".84" transform="rotate(18 343 331)"/>
+      <path d="M122 365C177 376 335 376 389 363" fill="none" stroke="#fff" stroke-width="7" opacity=".74" filter="url(#soft)"/>
+      <path d="M101 366C142 389 367 389 411 365" fill="none" stroke="#5b7497" stroke-width="5" opacity=".28" filter="url(#soft)"/>
+      <use href="#topFlap" fill="#354a67" transform="translate(0 9)" opacity=".73" filter="url(#soft)"/>
+      <use href="#topFlap" fill="url(#flap)"/>
+      <g clip-path="url(#flapClip)">
+        <path d="M108 158C153 136 354 135 402 157" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" filter="url(#soft)" opacity=".95"/>
+        <ellipse cx="186" cy="160" rx="75" ry="18" fill="url(#spot)"/>
+        <path d="M123 166C138 145 181 143 219 150C172 152 153 158 134 173Z" fill="url(#shine)" filter="url(#tiny)"/>
+        <path d="M315 148C350 145 381 151 399 164C365 157 342 160 318 159Z" fill="url(#shine)" filter="url(#tiny)" opacity=".85"/>
+        <ellipse cx="165" cy="168" rx="32" ry="10" fill="url(#spot)" opacity=".93" transform="rotate(-15 165 168)"/>
+        <path d="M106 167C141 207 202 261 225 276Q256 301 287 276C314 254 374 205 407 168" fill="none" stroke="#6d819b" stroke-width="12" opacity=".23" filter="url(#soft)"/>
+        <path d="M108 163C145 203 205 258 226 272Q256 297 286 272C310 251 370 202 404 164" fill="none" stroke="#fff" stroke-width="9" opacity=".28" filter="url(#soft)"/>
+        <text x="256" y="166" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing=".2" fill="#a4b4c6" opacity=".7">Apple Park, CA 95014</text>
+      </g>
+    </g>
+    <path d="M78 188C75 235 73 303 80 334M432 187C437 235 439 303 432 334" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" opacity=".44" filter="url(#soft)"/>
+  </g>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Inflated Linkedin</title>
+  <desc id="desc">Original LinkedIn logo with the supplied reference blue, #0A66C2, on a smooth inflated cushion. Background outline matches the Mail icon exactly.</desc>
+  <defs>
+    <linearGradient id="rim" x1="0" y1="0" x2=".3" y2="1">
+      <stop stop-color="#dfedff" />
+      <stop offset=".22" stop-color="#3783d1" />
+      <stop offset=".72" stop-color="#084483" />
+      <stop offset="1" stop-color="#7fa9dc" />
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fff" stop-opacity=".96" />
+      <stop offset="1" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="spot">
+      <stop stop-color="#fff" stop-opacity=".96" />
+      <stop offset=".4" stop-color="#fff" stop-opacity=".43" />
+      <stop offset="1" stop-color="#fff" stop-opacity="0" />
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" />
+    </filter>
+    <filter id="ground" x="-15%" y="-15%" width="130%" height="135%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#082547" flood-opacity=".32" />
+    </filter>
+    <path id="cushion" d="M145 28C201 18 311 18 367 28C441 39 474 72 485 145C495 202 495 310 485 367C474 441 441 474 367 485C311 495 201 495 145 485C71 474 38 441 27 367C17 310 17 202 27 145C38 72 71 39 145 28Z" />
+    <clipPath id="blueClip">
+      <use href="#cushion" />
+    </clipPath>
+    <radialGradient id="inflation" cx="37%" cy="28%" r="78%">
+      <stop stop-color="#ffffff" stop-opacity=".16" />
+      <stop offset=".38" stop-color="#ffffff" stop-opacity=".035" />
+      <stop offset=".58" stop-color="#000000" stop-opacity="0" />
+      <stop offset=".79" stop-color="#000000" stop-opacity=".1" />
+      <stop offset="1" stop-color="#000000" stop-opacity=".38" />
+    </radialGradient>
+  </defs>
+  <g filter="url(#ground)">
+    <use href="#cushion" fill="#0A66C2" stroke="url(#rim)" stroke-width="3" />
+    <g clip-path="url(#blueClip)">
+      <use href="#cushion" fill="url(#inflation)" />
+      <path d="M57 154C66 67 108 47 185 38C259 30 339 33 385 45" fill="none" stroke="#c4dcff" stroke-width="15" opacity=".36" filter="url(#soft)" />
+      <path d="M64 130C82 65 125 49 199 43C264 37 334 39 377 48" fill="none" stroke="url(#shine)" stroke-width="12" stroke-linecap="round" opacity=".32" filter="url(#soft)" />
+      <path d="M42 181C30 243 37 330 49 363" fill="none" stroke="#9bbfff" stroke-width="13" opacity=".28" filter="url(#soft)" />
+      <path d="M68 399C91 447 131 456 180 460C259 468 334 462 379 451" fill="none" stroke="#07254d" stroke-width="23" opacity=".13" filter="url(#soft)" />
+      <path d="M101 458C173 484 345 485 408 451" fill="none" stroke="#8fb4e4" stroke-width="8" opacity=".24" filter="url(#soft)" />
+      <ellipse cx="115" cy="76" rx="57" ry="15" fill="url(#spot)" transform="rotate(-25 115 76)" />
+      <ellipse cx="433" cy="147" rx="14" ry="53" fill="url(#spot)" opacity=".6" transform="rotate(-12 433 147)" />
+      <use href="#cushion" fill="none" stroke="#093f7a" stroke-width="12" opacity=".13" />
+    </g>
+  </g>
+  <g id="logo" transform="translate(39.3216 39.3216) scale(6.01884444444)" fill-rule="evenodd">
+    <path d="M62,62 L51.315625,62 L51.315625,43.8021149 C51.315625,38.8127542 49.4197917,36.0245323 45.4707031,36.0245323 C41.1746094,36.0245323 38.9300781,38.9261103 38.9300781,43.8021149 L38.9300781,62 L28.6333333,62 L28.6333333,27.3333333 L38.9300781,27.3333333 L38.9300781,32.0029283 C38.9300781,32.0029283 42.0260417,26.2742151 49.3825521,26.2742151 C56.7356771,26.2742151 62,30.7644705 62,40.051212 L62,62 Z M16.349349,22.7940133 C12.8420573,22.7940133 10,19.9296567 10,16.3970067 C10,12.8643566 12.8420573,10 16.349349,10 C19.8566406,10 22.6970052,12.8643566 22.6970052,16.3970067 C22.6970052,19.9296567 19.8566406,22.7940133 16.349349,22.7940133 Z M11.0325521,62 L21.769401,62 L21.769401,27.3333333 L11.0325521,27.3333333 L11.0325521,62 Z" fill="#FFF" />
+  </g>
+</svg>
