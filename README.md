@@ -52,6 +52,7 @@
 <details>
   <summary></summary>
   <h2></h2>
+  <br>
   <table>
     <tr>
       <td>
