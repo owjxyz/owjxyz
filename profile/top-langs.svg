@@ -141,14 +141,14 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 27.29%
+        TypeScript 27.30%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#F05138" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Swift 20.52%
+        Swift 20.51%
       </text>
     </g>
   </g><g transform="translate(0, 96)">
@@ -184,8 +184,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="27.29"
-          d="M 61.25067074292576 128.50636712280334 A 56.66666666666667 56.66666666666667 0 0 0 136.3300639045555 169.81233366009238"
+          size="27.3"
+          d="M 61.243242578899284 128.47154589089413 A 56.66666666666667 56.66666666666667 0 0 0 136.3300639045555 169.81233366009238"
           stroke="#3178c6"
           fill="none"
           stroke-width="12">
@@ -195,8 +195,8 @@
        <g class="stagger" style="animation-delay: 800ms">
         <path
           data-testid="lang-donut"
-          size="20.52"
-          d="M 89.89925009790613 66.72053046630023 A 56.66666666666667 56.66666666666667 0 0 0 61.25067074292576 128.50636712280334"
+          size="20.51"
+          d="M 89.89925009790613 66.72053046630023 A 56.66666666666667 56.66666666666667 0 0 0 61.243242578899284 128.47154589089413"
           stroke="#F05138"
           fill="none"
           stroke-width="12">
